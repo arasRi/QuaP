@@ -1,0 +1,41 @@
+# ============================================================
+# Quantum Machine Learning for Cybersecurity (Parquet Edition)
+# Python 3.10 - 3.12
+# ============================================================
+
+# --- Core Scientific Stack ---
+numpy==1.26.4
+scipy==1.11.4
+pandas==2.2.2
+scikit-learn==1.5.2
+
+# --- Parquet Support ---
+pyarrow==17.0.0
+fastparquet==2024.5.0
+
+# --- Visualization ---
+matplotlib==3.9.2
+contourpy==1.3.0
+seaborn==0.13.2
+pylatexenc==2.10
+
+# --- Qiskit Stack ---
+qiskit==1.2.4
+qiskit-aer==0.15.1
+qiskit-machine-learning==0.8.1
+qiskit-algorithms==0.3.1
+
+# --- PennyLane Stack ---
+pennylane==0.44.1
+pennylane-lightning==0.45.0
+autoray==0.8.2
+autograd==1.8.0
+diastatic-malt==2.15.2
+
+# --- Jupyter Kernel ---
+ipykernel==6.29.5
+
+# --- Utilities ---
+requests==2.32.3
+networkx==3.3
+rustworkx==0.15.1

@@ -1,0 +1,15 @@
+{
+  "timestamp": "20261014_024053",
+  "dataset": "HQC-2026 (Parquet)",
+  "n_qubits": 4,
+  "n_train": 4909,
+  "n_test": 2105,
+  "accuracy": 0.7125890736342043,
+  "training_time_seconds": 10272.006628990173,
+  "results_comparison": {
+    "VQC (Quantum)": 0.7125890736342043,
+    "Logistic Regression": 0.7852731591448932,
+    "SVM (RBF)": 0.7885985748218527,
+    "Random Forest": 0.8950118764845606
+  }
+}
