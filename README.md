@@ -6,6 +6,22 @@ Demo penggunaan Quantum Machine Learning (VQC) untuk deteksi intrusi jaringan me
 
 ```bash
 qml-cybersecurity-parquet/
+├── .ipynb_checkpoints/
+│ ├── qml_cybersecurity_parquet-checkpoint.ipynb
+│ ├── requirements-checkpoint.txt
+│ └── verify-install-checkpoint.py
+├── output/
+│ ├── metrics_20261014_024053.json
+│ ├── preprocessing_20261014_024053.pkl
+│ ├── vqc_model_20261014_021022.pkl
+│ └── vqc_model_20261014_024053.pkl
+├── qml-env/
+│ ├── etc/
+│ ├── Include/
+│ ├── Lib/site-packages/
+│ ├── Scripts/
+│ ├── share/
+│ └── pyvenv.cfg
 ├── requirements.txt
 ├── README.md
 ├── data/
