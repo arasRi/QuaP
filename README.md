@@ -1,3 +1,12 @@
+## 👥 Team Members
+
+| No | Nama | NRP |
+| :---: | :--- | :---: |
+| 1 | Aras Rizky Ananta | `5027221053` |
+| 2 | Muhammad Ida Bagus Rafi Habibie | `5027221059` |
+| 3 | Salomo | `5027221063` |
+
+
 # Quantum ML untuk Cybersecurity - Demo dengan Dataset Parquet
 
 Demo penggunaan Quantum Machine Learning (VQC) untuk deteksi intrusi jaringan menggunakan dataset HQC-2026 dalam format Parquet.
